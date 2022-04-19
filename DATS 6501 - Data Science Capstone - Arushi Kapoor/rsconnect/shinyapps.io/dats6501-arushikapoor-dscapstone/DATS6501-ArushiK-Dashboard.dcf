@@ -1,0 +1,13 @@
+name: DATS6501-ArushiK-Dashboard
+title: DATS6501-ArushiK-Dashboard
+username:
+account: dats6501-arushikapoor-dscapstone
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5819931
+bundleId: 5787606
+url: https://arushikapoor.shinyapps.io/DATS6501-ArushiK-Dashboard/
+when: 1649699655.61984
+lastSyncTime: 1649699655.61984
+asMultiple: FALSE
+asStatic: FALSE
