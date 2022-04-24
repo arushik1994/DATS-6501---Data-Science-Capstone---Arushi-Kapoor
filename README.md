@@ -20,4 +20,5 @@ Gender gap continues to be one of the most persistent issues in the field of tec
 3. Machine Learning Model Implementation 
 
 **DATA**
+
 The data was obtained from Kaggle LLC's annual survey on Data Science and Machine Learning in 2019, 2020 and 2021. It was pre-processed and converted into a .rds format for visualization, application and modeling purposes. For an ideal viewing experience, RStudio is highly recommended. 
