@@ -23,4 +23,4 @@ Gender gap continues to be one of the most persistent issues in the field of tec
 
 For visualization and application purposes, the data was obtained from Kaggle LLC's annual survey on Data Science and Machine Learning in 2019, 2020 and 2021. It was pre-processed and converted into a .rds format. For an ideal experience, RStudio must be used. 
 
-For machine learning purposes, the data was obtained from Kaggle LLC's 2021 survey on Data Science and Machine Learning. It was read in a .csv format. Then, it was pre-processed, split into training and testing sets and modeled, using Jupyter Notebook. 
+For machine learning purposes, the data was obtained from Kaggle LLC's 2021 survey on Data Science and Machine Learning. It was read in a .csv format. Then, it was pre-processed, split into training and testing sets and modeled, using Jupyter Notebook. The data can be accessed [here](https://www.kaggle.com/competitions/kaggle-survey-2021/data).
