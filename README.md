@@ -15,6 +15,6 @@ Gender gap continues to be one of the most persistent issues in the field of tec
 4. What kind of machine learning models can be implemented to predict a respondent’s compensation? 
 
 **SCOPE**
-1. Shiny Application Dashboard[https://arushikapoor.shinyapps.io/DATS6501-ArushiK-Dashboard/]
+1. [Shiny Application Dashboard](https://arushikapoor.shinyapps.io/DATS6501-ArushiK-Dashboard/)
 2. Feature Importance
 3. Machine Learning Model Implementation 
