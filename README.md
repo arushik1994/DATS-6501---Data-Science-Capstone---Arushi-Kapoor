@@ -1,6 +1,7 @@
 # DATS-6501---Data-Science-Capstone---Arushi-Kapoor
 
 PROBLEM STATEMENT 
+
 Gender gap continues to be one of the most persistent issues in the field of technology, where women have been historically excluded. Several factors can be used to determine whether a gap between men and women exists in the field of Data Science and Machine Learning. These include age, education, job title, country of residence and others. The purpose of this project is to highlight such factors using visualization and machine learning techniques, understand the causes that attribute to this gap, and more importantly, make recommendations towards closing it.
 
 PROBLEM ELABORATION 
